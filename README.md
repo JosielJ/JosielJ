@@ -32,4 +32,4 @@
   
 ##
   
-![Snake animation](https://github.com/josielJ/josiel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/josielj/josielj/blob/output/github-contribution-grid-snake.svg)
