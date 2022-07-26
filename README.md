@@ -1,4 +1,4 @@
-### Olá, me chamo Josiel Jaschke, tenho 20 anos e sou de SC - Brasil!
+### Olá, me chamo Josiel Jaschke, tenho 21 anos e sou de SC - Brasil!
 
 - 🔭 Eu tenho conhecimento em JavaScript, HTML, CSS e React
 - 🌱 Estou me aprofundando mais no estudo de JavaScript e React, pretendo futuramente estudar C# e C++
